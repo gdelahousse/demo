@@ -2,4 +2,6 @@
 
 This is a simple readme file
 
-## HEading 2
+## Heading 2
+
+Some changes on a branch
